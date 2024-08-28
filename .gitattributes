@@ -1,0 +1,4 @@
+HAR/UCI[[:space:]]HAR[[:space:]]Dataset/train/X_train.txt filter=lfs diff=lfs merge=lfs -text
+submission.ipynb filter=lfs diff=lfs merge=lfs -text
+HAR filter=lfs diff=lfs merge=lfs -text
+Combined filter=lfs diff=lfs merge=lfs -text
